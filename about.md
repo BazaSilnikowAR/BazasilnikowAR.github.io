@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+## Baza silników marki Alfa Romeo
+### Może tylko benzyna, może też diesel
+<!--
+*gwiazdka*
+**2 gwiazdka**
+~~dwa tylda~~
+> cytat
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+- kropka jeden
+- kropka 2
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+1. trzy
+2. cztery
+
+[odnośnik](http://jezus.pl)
+-->
+![obrazek](http://www.underconsideration.com/brandnew/archives/alfa_romeo_2015_logo_detail.jpg)

@@ -1,19 +1,18 @@
 ---
-layout: page
+layout: home
 title: About
 permalink: /about/
 ---
 
 ## Baza silników marki Alfa Romeo
-### Może tylko benzyna, może też diesel
 <!--
 *gwiazdka*
-**2 gwiazdka**
+**2 gwiazdka**rand-logo
 ~~dwa tylda~~
 > cytat
 
 - kropka jeden
-- kropka 2
+- kropka 2**2 gwiazdka**rand-logo
 
 1. trzy
 2. cztery
